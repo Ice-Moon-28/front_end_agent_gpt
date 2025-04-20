@@ -1,0 +1,25 @@
+{
+  "appTitle": "AgentGPT Chat",
+  "inputPlaceholder": "Type a goal...",
+  "uploadImage": {
+    "button": "Upload Image",
+    "title": "Upload Image",
+    "dragText": "Drag and drop an image here or click to upload",
+    "supportText": "Supports jpg, png, gif and other image formats",
+    "progress": "Upload progress: {{progress}}%",
+    "cancel": "Cancel",
+    "error": {
+      "format": "Please upload an image file",
+      "upload": "Failed to upload image, please try again"
+    }
+  },
+  "message": {
+    "uploadSuccess": "Image uploaded successfully",
+    "sendError": "Failed to send message",
+    "historyError": "Failed to get message history"
+  },
+  "language": {
+    "en": "English",
+    "zh": "中文"
+  }
+} 

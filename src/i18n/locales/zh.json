@@ -1,0 +1,25 @@
+{
+  "appTitle": "AgentGPT 聊天",
+  "inputPlaceholder": "输入任务...",
+  "uploadImage": {
+    "button": "上传图片",
+    "title": "上传图片",
+    "dragText": "拖拽图片到这里或点击上传",
+    "supportText": "支持 jpg、png、gif 等图片格式",
+    "progress": "上传进度: {{progress}}%",
+    "cancel": "取消",
+    "error": {
+      "format": "请上传图片文件",
+      "upload": "上传图片失败，请重试"
+    }
+  },
+  "message": {
+    "uploadSuccess": "图片上传成功",
+    "sendError": "发送消息失败",
+    "historyError": "获取历史消息失败"
+  },
+  "language": {
+    "en": "English",
+    "zh": "中文"
+  }
+} 
